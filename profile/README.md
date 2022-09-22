@@ -1,1 +1,7 @@
-# Mitra
+# About Us
+
+Currently, we are living with a cure based healthcare system, i.e., treatment of the symptoms instead of the cause. Costs are rising on a yearly basis and more people suffer from lifestyle diseases. Whereas, in a preventive based system, the aim is early diagnosis and preventing disease. Lifestyle, diet and early diagnosis have a big influence on the biggest causes of death (heart diseases and cancer). Next to extending the health and life span of individuals, a preventive system also reduces healthcare costs. A U.S. study estimates the national cost savings from early diagnosis at $26 billion per year.
+
+Our solution is to create the first step toward a preventive based healthcare system, with the help of an algorithm to improve the use of smartwatches. By using the already collected data by your smartwatch (which includes sleep time, screentime, heart rate, stress level, steps taken/exercise etc) that is not being used to its full potential, Mitra will detect diseases in their early stages by analyzing that data and giving a risk profile early on to the user.
+
+The purpose of our project is to make preventive healthcare accessible to everyone. In 20 years from now, we aim to increase the human lifespan and healthspan, and furthermore, increase the healthy lifespan from 64.5 years to reach the health escape velocity (84.5 years). Mitra will help us become healthier as individuals and as a society. Our vision is to help humans live their healthiest and longest lives.
